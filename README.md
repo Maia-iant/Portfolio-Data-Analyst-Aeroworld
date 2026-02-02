@@ -111,7 +111,7 @@ Deux visualisations sont prévues dans le cadre du projet Aéroworld :
    - Synthèse de ma veille métier/technologique (thèmes, sources, outils testés).  
    - Objectif : montrer ma capacité à suivre l’évolution des outils et méthodes data.
 
-> Les fichiers (Power BI / Tableau) ou captures d’écran correspondants pourront être ajoutés dans un dossier `Visualisations/` ou référencés par des liens.
+
 
 ---
 
@@ -142,4 +142,4 @@ Une vidéo de formation (≥ 8 minutes) montrera la création d’une visualisat
 Ce portfolio peut être présenté en soutenance (en français, avec possibilité d’adapter une partie en anglais technique si nécessaire).  
 
 - GitHub : [https://github.com/Maia-iant](https://github.com/Maia-iant)  
-- LinkedIn : à ajouter si tu le souhaites  
+- LinkedIn :[https://www.linkedin.com/feed/](https://www.linkedin.com/in/maryline-i-48b6201b1/)
