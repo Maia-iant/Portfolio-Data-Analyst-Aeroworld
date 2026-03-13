@@ -117,10 +117,10 @@ Deux visualisations sont prévues dans le cadre du projet Aéroworld :
 
 ## 🎥 Vidéo de formation
 
-Une vidéo de formation (≥ 8 minutes) montrera la création d’une visualisation ou d’un tableau de bord dans un outil de data visualisation (Power BI ou Tableau).  
+Une vidéo de formation (≥ 8 minutes) montre la création d’une visualisation ou d’un tableau de bord dans un outil de data visualisation (Power BI).  
 
 - Objectif : illustrer ma capacité à accompagner des utilisateurs dans la prise en main d’un outil de BI (explications pas à pas, pédagogie, vulgarisation).  
-- Le lien vers la vidéo sera ajouté ici lorsque l’enregistrement sera finalisé (par exemple un lien Loom ou autre).
+
 
 ---
 
@@ -138,8 +138,6 @@ Une vidéo de formation (≥ 8 minutes) montrera la création d’une visualisat
 ---
 
 ## 🔗 Contact
-
-Ce portfolio peut être présenté en soutenance (en français, avec possibilité d’adapter une partie en anglais technique si nécessaire).  
 
 - GitHub : [https://github.com/Maia-iant](https://github.com/Maia-iant)  
 - LinkedIn :[https://www.linkedin.com/feed/](https://www.linkedin.com/in/maryline-i-48b6201b1/)
