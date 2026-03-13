@@ -143,3 +143,4 @@ Ce portfolio peut être présenté en soutenance (en français, avec possibilit�
 
 - GitHub : [https://github.com/Maia-iant](https://github.com/Maia-iant)  
 - LinkedIn :[https://www.linkedin.com/feed/](https://www.linkedin.com/in/maryline-i-48b6201b1/)
+- WEB :  https://maryline-iannotta.notion.site/?pvs=143)
