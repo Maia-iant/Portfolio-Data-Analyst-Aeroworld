@@ -52,7 +52,7 @@ Ce dépôt contient les livrables suivants liés au projet Aéroworld :
 - `README.md`  
   Présentation globale du projet de portfolio Aéroworld (ce fichier).
 
-> La vidéo de formation est fournie sous forme de lien (voir section “Vidéo de formation”).
+> Les vidéos  (voir section “Vidéo”).
 
 ---
 
