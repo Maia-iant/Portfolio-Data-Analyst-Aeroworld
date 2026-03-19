@@ -49,6 +49,9 @@ Ce dépôt contient les livrables suivants liés au projet Aéroworld :
 - `Procedure_documentation_graphique.pdf`  
   Procédure pas à pas décrivant la création et la documentation d’un graphique ou d’une analyse data.
 
+- `Carte_mentale_portfolio_Aeroworld (Miro)`  
+  Carte mentale interactive synthétisant la structure du portfolio, les projets clés (dont le tableau de bord financier FEC) et la méthodologie de construction. 
+  
 - `README.md`  
   Présentation globale du projet de portfolio Aéroworld (ce fichier).
 
@@ -96,6 +99,13 @@ Tableau de bord financier Power BI à partir d’un Fichier des Écritures Compt
 - Modélisation de données comptables en BI.  
 - Construction de KPI financiers et d’alertes pour le pilotage.  
 - Traduction d’un FEC brut en outil opérationnel pour décideurs.
+
+---
+## Carte mentale du portfolio
+
+Pour visualiser la structure globale de mon portfolio et des projets associés, vous pouvez consulter la carte mentale suivante (Miro) :
+
+👉 [Voir la carte mentale du portfolio sur Miro](https://miro.com/welcomeonboard/QytTcmZ5VDRYZE9lZ1dmMmEwbERRUnpFY3pVWml1MHV5cXM0ek44M2hoNndnR0dHcE9iYWlaMXUvY3h0QW43dE5OUm52WlhXbGFOVTdHQUp1MjVHWHJFMm50NmJTMHI4emUrUllkdE1aOVk5UXpzR29Gb0dXU3VYUldhMHRJRlJBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=769312704765)
 
 ---
 
