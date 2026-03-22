@@ -63,17 +63,18 @@ Ce dépôt contient les livrables suivants liés au projet Aéroworld :
 
 Les projets data eux-mêmes sont hébergés dans des dépôts séparés. Ils sont référencés ici comme exemples de mes compétences techniques et métier.
 
-### 1. Analyse de l’alimentation mondiale (2013–2017)
 
-**Repo** : [AnalyseAlimentation-Mondiale-2013-2017](https://github.com/Maia-iant/AnalyseAlimentation-Mondiale-2013-2017)  
+### 1. Tableau de bord financier à partir d’un FEC comptable
 
-Projet d’analyse de données de la FAO pour évaluer l’état de l’alimentation dans le monde entre 2013 et 2017 : nettoyage, analyses exploratoires, indicateurs et visualisations pour comprendre les tendances globales.
+**Repo** : [Tableau-de-bord-financier-partir-d-un-FEC-comptable](https://github.com/Maia-iant/Tableau-de-bord-financier-partir-d-un-FEC-comptable)  
+
+Tableau de bord financier Power BI à partir d’un Fichier des Écritures Comptables (FEC) : compte de résultat, trésorerie, BFR, DSO/DPO, encours clients, dettes fournisseurs, ratios et alertes visuelles.
 
 **Compétences mises en avant** :  
-- Travail sur données publiques et volumineuses.  
-- Construction d’indicateurs et visualisations “macro”.  
-- Storytelling data à partir de données internationales.
-
+- Modélisation de données comptables en BI.  
+- Construction de KPI financiers et d’alertes pour le pilotage.  
+- Traduction d’un FEC brut en outil opérationnel pour décideurs.
+  
 ---
 
 ### 2. Analyse des ventes d’une librairie
@@ -89,16 +90,16 @@ Analyse complète des ventes de la librairie LAPAGE : chiffre d’affaires, prof
 
 ---
 
-### 3. Tableau de bord financier à partir d’un FEC comptable
+### 3. Analyse de l’alimentation mondiale (2013–2017)
 
-**Repo** : [Tableau-de-bord-financier-partir-d-un-FEC-comptable](https://github.com/Maia-iant/Tableau-de-bord-financier-partir-d-un-FEC-comptable)  
+**Repo** : [AnalyseAlimentation-Mondiale-2013-2017](https://github.com/Maia-iant/AnalyseAlimentation-Mondiale-2013-2017)  
 
-Tableau de bord financier Power BI à partir d’un Fichier des Écritures Comptables (FEC) : compte de résultat, trésorerie, BFR, DSO/DPO, encours clients, dettes fournisseurs, ratios et alertes visuelles.
+Projet d’analyse de données de la FAO pour évaluer l’état de l’alimentation dans le monde entre 2013 et 2017 : nettoyage, analyses exploratoires, indicateurs et visualisations pour comprendre les tendances globales.
 
 **Compétences mises en avant** :  
-- Modélisation de données comptables en BI.  
-- Construction de KPI financiers et d’alertes pour le pilotage.  
-- Traduction d’un FEC brut en outil opérationnel pour décideurs.
+- Travail sur données publiques et volumineuses.  
+- Construction d’indicateurs et visualisations “macro”.  
+- Storytelling data à partir de données internationales.
 
 ---
 ## Carte mentale du portfolio
